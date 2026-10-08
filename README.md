@@ -176,7 +176,7 @@ My long-term interest is in building **reliable backend and infrastructure syste
 
 ## 📫 Connect
 
-[GitHub](https://github.com/muhammedsiinanmp) · [LinkedIn](https.//linkedin.com/in/muhammedsiinanmp)
+[GitHub](https://github.com/muhammedsiinanmp) · [LinkedIn](https://linkedin.com/in/muhammedsiinanmp)
 
 ---
 
